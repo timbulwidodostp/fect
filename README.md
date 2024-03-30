@@ -1,6 +1,7 @@
 # fect
 A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data Use fect With STATA 18
 
+https://www.youtube.com/watch?v=PEdrD96IVmw
 
 Olah Data Semarang
 
